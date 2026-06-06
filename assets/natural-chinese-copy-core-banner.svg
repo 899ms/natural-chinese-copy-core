@@ -1,0 +1,40 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Natural Chinese Copy Core</title>
+  <desc id="desc">A visual banner showing facts, sentence skeleton, gates, and publishable Chinese copy.</desc>
+  <rect width="1200" height="420" rx="34" fill="#11120F"/>
+  <path d="M0 320C165 282 293 351 437 323C578 296 671 184 835 196C988 207 1071 315 1200 276V420H0V320Z" fill="#E7D8B7" opacity="0.16"/>
+  <path d="M100 82H1100V338H100V82Z" stroke="#E7D8B7" stroke-width="2" opacity="0.28"/>
+  <circle cx="106" cy="88" r="5" fill="#E7D8B7"/>
+  <circle cx="1094" cy="88" r="5" fill="#E7D8B7"/>
+  <circle cx="106" cy="332" r="5" fill="#E7D8B7"/>
+  <circle cx="1094" cy="332" r="5" fill="#E7D8B7"/>
+
+  <text x="120" y="150" fill="#F8F0DC" font-family="Georgia, 'Times New Roman', serif" font-size="56" font-weight="700">Natural Chinese Copy Core</text>
+  <text x="123" y="196" fill="#C8F2C2" font-family="Verdana, sans-serif" font-size="20" letter-spacing="2">FACTS FIRST · REAL VERBS · PUBLISHABLE CHINESE</text>
+
+  <g transform="translate(126 246)">
+    <rect x="0" y="0" width="190" height="64" rx="18" fill="#F8F0DC"/>
+    <text x="24" y="38" fill="#11120F" font-family="Verdana, sans-serif" font-size="18" font-weight="700">Facts</text>
+    <path d="M203 32H266" stroke="#C8F2C2" stroke-width="3"/>
+    <path d="M258 22L270 32L258 42" stroke="#C8F2C2" stroke-width="3" fill="none"/>
+  </g>
+
+  <g transform="translate(396 246)">
+    <rect x="0" y="0" width="190" height="64" rx="18" fill="#1D2B22" stroke="#C8F2C2" stroke-width="2"/>
+    <text x="24" y="38" fill="#F8F0DC" font-family="Verdana, sans-serif" font-size="18" font-weight="700">Skeleton</text>
+    <path d="M203 32H266" stroke="#C8F2C2" stroke-width="3"/>
+    <path d="M258 22L270 32L258 42" stroke="#C8F2C2" stroke-width="3" fill="none"/>
+  </g>
+
+  <g transform="translate(666 246)">
+    <rect x="0" y="0" width="190" height="64" rx="18" fill="#273625" stroke="#E7D8B7" stroke-width="2"/>
+    <text x="24" y="38" fill="#F8F0DC" font-family="Verdana, sans-serif" font-size="18" font-weight="700">Gates</text>
+    <path d="M203 32H266" stroke="#C8F2C2" stroke-width="3"/>
+    <path d="M258 22L270 32L258 42" stroke="#C8F2C2" stroke-width="3" fill="none"/>
+  </g>
+
+  <g transform="translate(936 246)">
+    <rect x="0" y="0" width="190" height="64" rx="18" fill="#C8F2C2"/>
+    <text x="24" y="38" fill="#11120F" font-family="Verdana, sans-serif" font-size="18" font-weight="700">Copy</text>
+  </g>
+</svg>
