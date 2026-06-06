@@ -1,8 +1,10 @@
-![Natural Chinese Copy Core](assets/natural-chinese-copy-core-banner.svg)
+![中文才是最屌的](assets/natural-chinese-copy-core-banner.svg)
 
-# Natural Chinese Copy Core
+# 中文才是最屌的
 
-一套给中文文案用的底层 skill。它先把材料改写成中文事实稿，再检查句法骨架、真实动词、事实边界和可发布性，最后才交付正文。
+## Natural Chinese Copy Core
+
+`中文才是最屌的` 是一套给中文文案用的底层 skill。它先把材料改写成中文事实稿，再检查句法骨架、真实动词、事实边界和可发布性，最后才交付正文。
 
 [![Skill](https://img.shields.io/badge/skill-Codex%20%2B%20Claude-11120f)](#安装)
 [![Rules](https://img.shields.io/badge/rules-reference%20driven-1d2b22)](#规则怎么工作)
